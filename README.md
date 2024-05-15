@@ -2,7 +2,7 @@
 
 This repository contains a Java implementation for image processing and manipulation. It was my final project for Fundamentals of Computer Science II. It includes multiple classes that work together to manage image representations, pixel data, service layers, and user interfaces. The project also includes unit tests for key components.
 
-*To properly provide a file path, the String provided should look something like, "src/main/resources/(imagename).png*
+*To properly provide a file path, the String provided should look something like, "src/main/resources/(imagename).png"*
 
 *Edited images are saved to the target folder*
 
